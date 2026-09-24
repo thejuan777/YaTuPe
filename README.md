@@ -24,7 +24,7 @@ Proyecto realizado como parte de mi portfolio de desarrollo web.
 
 ## 📸 Vista previa
 
-Próximamente se añadirá una captura del sitio.
+![Vista previa de YaTuPe](img/Vista%20previa%20de%20YaTuPe.png)
 
 ## 🌐 Demo
 
