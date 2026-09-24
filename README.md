@@ -1,34 +1,37 @@
-# 💈 YaTuPe Barbería
+# YaTuPe Barbería
 
-Sitio web responsive desarrollado para **YaTuPe Barbería**, en San Juan, Argentina.
+Sitio web responsive diseñado y desarrollado para una barbería de San Juan, Argentina.
 
-Proyecto realizado como parte de mi portfolio de desarrollo web.
+El proyecto se enfocó en crear una presencia web moderna, clara y adaptable a distintos dispositivos, priorizando la presentación de los servicios y el acceso rápido a los medios de contacto.
 
-## ✨ Características
+![Vista previa de YaTuPe](img/Vista%20previa%20de%20YaTuPe.png)
 
-- Diseño moderno y responsive
-- Adaptado para PC y dispositivos móviles
-- Sección de servicios
-- Galería de trabajos
-- Botones de consulta mediante WhatsApp
-- Ubicación del negocio
-- Menú de navegación responsive
-- Diseño personalizado para la identidad de la barbería
+## Sobre el proyecto
 
-## 🛠️ Tecnologías utilizadas
+YaTuPe es una landing page desarrollada desde cero para presentar la identidad y los servicios de una barbería.
+
+El sitio incluye navegación responsive, presentación de servicios, galería de trabajos, ubicación y acceso directo a consultas mediante WhatsApp.
+
+## Tecnologías
 
 - HTML5
 - CSS3
 - JavaScript
 - Font Awesome
 
-## 📸 Vista previa
+## Funcionalidades
 
-![Vista previa de YaTuPe](img/Vista%20previa%20de%20YaTuPe.png)
+- Diseño responsive para desktop y dispositivos móviles
+- Menú de navegación adaptable
+- Sección de servicios
+- Galería de trabajos
+- Integración con WhatsApp
+- Acceso a la ubicación del negocio
+- Interfaz personalizada para la identidad visual de la barbería
 
-## 🌐 Demo
+## Desarrollo
 
-Demo online próximamente.
+El diseño y la implementación fueron realizados como un proyecto web completo, trabajando tanto la estructura del sitio como su adaptación para dispositivos móviles y la experiencia de navegación.
 
 ---
 
